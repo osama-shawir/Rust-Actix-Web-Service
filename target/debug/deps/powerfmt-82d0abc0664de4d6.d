@@ -1,0 +1,11 @@
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Actix-Web-Service\target\debug\deps\libpowerfmt-82d0abc0664de4d6.rmeta: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Actix-Web-Service\target\debug\deps\libpowerfmt-82d0abc0664de4d6.rlib: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\osama\Desktop\Sem 2\DE\Rust-Actix-Web-Service\target\debug\deps\powerfmt-82d0abc0664de4d6.d: C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs
+
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\lib.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\buf.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\ext.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display.rs:
+C:\Users\osama\.cargo\registry\src\index.crates.io-6f17d22bba15001f\powerfmt-0.2.0\src\smart_display_impls.rs:
