@@ -74,6 +74,19 @@ docker run -p 8080:8080 yourusername/yourrepository
 
 Visit `http://127.0.0.1:8080/` in your web browser. You should see the your web service running there.
 
+![alt text](image.png)
+
+
+8. We can also see the running container using the following command:
+
+```bash
+docker ps
+```
+
+Or we can see it as follows in the docker desktop application:
+
+![alt text](image-1.png)
+
 ## Conclusion
 
 With this project, we've demonstrated how to containerize a Rust Actix Web Service using Docker. This allows us to run our application on any machine with Docker installed, regardless of the operating system.
